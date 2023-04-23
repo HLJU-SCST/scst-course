@@ -23,7 +23,7 @@
 
 ## 🏅 贡献者
 
-非常感谢本教程的[所有贡献者](https://github.com/HLJU-SCST/scst-course/graphs/contributors)，组织的发展离不开你们任何一个人的努力与无私分享!
+非常感谢本组织的[所有贡献者](https://github.com/HLJU-SCST/scst-course/graphs/contributors)，组织的发展离不开你们任何一个人的努力与无私分享!
 
 <br />
 
