@@ -1,5 +1,15 @@
 # scst-course
-[![repo-size](https://img.shields.io/github/repo-size/HLJU-SCST/scst-course.svg)]()
+<a href="https://github.com/HLJU-SCST/scst-course">
+  <img alt="Repo size" src="https://img.shields.io/github/repo-size/HLJU-SCST/scst-course.svg" />
+</a>
+<a href="https://github.com/HLJU-SCST/scst-course/issues">
+  <img alt="Issues" src="https://img.shields.io/github/issues/HLJU-SCST/scst-course?color=0080f1f" />
+</a>
+<a href="https://github.com/HLJU-SCST/scst-course/pulls">
+  <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/HLJU-SCST/scst-course?color=E5B019" />
+</a>
+
+----
 
 本仓库收录 [黑龙江大学计算机科学技术学院（软件学院）](https://github.com/HLJU-SCST/scst-course/tree/main/%E6%A0%A1%E5%86%85%E8%AF%BE%E7%A8%8B%E8%B5%84%E6%BA%90) 课程资源，包括但不限于电子版教材、习题、笔记、相关实验以及经验等学生原创内容。
 
