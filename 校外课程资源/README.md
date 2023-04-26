@@ -4,6 +4,7 @@
 [卡内基梅隆大学 CMU 15-721](https://15721.courses.cs.cmu.edu/)  
 [卡内基梅隆大学 CMU 18-746](http://course.ece.cmu.edu/~ece746/)  
 [麻省理工学院 MIT 6.5830/6.5831](http://dsg.csail.mit.edu/6.5830/)  
+[麻省理工学院 MIT 6.824](https://pdos.csail.mit.edu/6.824/)  
 [斯坦福大学 CS 245](http://web.stanford.edu/class/cs245/)  
 [斯坦福大学 CS 145](https://cs145-fa18.github.io/)  
 [斯坦福大学 CS 346](https://web.stanford.edu/class/cs346)  
