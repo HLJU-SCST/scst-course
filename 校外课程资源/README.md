@@ -1,3 +1,21 @@
+## 数据结构与算法 ｜ Data Structures and Algorithms
+[加州大学伯克利分校 CS 61B](https://datastructur.es/)  
+[加州大学伯克利分校 CS 170](https://cs170.org/)  
+[普林斯顿大学 algorithms-part1](https://www.coursera.org/learn/algorithms-part1)  
+[普林斯顿大学 algorithms-part2](https://www.coursera.org/learn/algorithms-part2)  
+[麻省理工学院 MIT 6.006(2011)](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/)  
+[麻省理工学院 MIT 6.046(2015)](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/)  
+
+## 计算机组成原理和结构 ｜  & Constructive Computer Architecture
+[麻省理工学院 MIT 6.175](http://csg.csail.mit.edu/6.175/)  
+[加州大学伯克利分校 CS 61C](https://cs61c.org/sp23/)  
+
+## 网络 ｜ Networking
+[斯坦福大学 CS 144](https://cs144.github.io/)  
+
+## 分布式系统 ｜ Distributed systems
+[麻省理工学院 MIT 6.824](https://pdos.csail.mit.edu/6.824/)  
+
 ## 操作系统 ｜ Operating systems
 [麻省理工学院 MIT 6.828](https://pdos.csail.mit.edu/6.828/)  
 [斯坦福大学 CS 140(spring2020)](https://web.stanford.edu/~ouster/cgi-bin/cs140-spring20/index.php)  
@@ -22,7 +40,6 @@
 [卡内基梅隆大学 CMU 15-721](https://15721.courses.cs.cmu.edu/)  
 [卡内基梅隆大学 CMU 18-746](http://course.ece.cmu.edu/~ece746/)  
 [麻省理工学院 MIT 6.5830/6.5831](http://dsg.csail.mit.edu/6.5830/)  
-[麻省理工学院 MIT 6.824](https://pdos.csail.mit.edu/6.824/)  
 [斯坦福大学 CS 245](http://web.stanford.edu/class/cs245/)  
 [斯坦福大学 CS 145](https://cs145-fa18.github.io/)  
 [斯坦福大学 CS 346](https://web.stanford.edu/class/cs346)  
