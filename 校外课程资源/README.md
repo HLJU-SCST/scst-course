@@ -1,5 +1,15 @@
+## 操作系统 ｜ Operating systems
+[麻省理工学院 MIT 6.828](https://pdos.csail.mit.edu/6.828/)  
+[斯坦福大学 CS 140(spring2020)](https://web.stanford.edu/~ouster/cgi-bin/cs140-spring20/index.php)  
+[斯坦福大学 CS 140(spring2021)](https://www.scs.stanford.edu/21wi-cs140/)  
+[斯坦福大学 CS 140e](https://cs140e.sergio.bz/)  
+[卡内基梅隆大学 CMU 15-213](https://www.cs.cmu.edu/~213/)  
+[哈佛大学 CS 161](https://read.seas.harvard.edu/cs161)  
+[加州大学伯克利分校 CS 162](https://cs162.org/)  
+[哈工大](https://www.icourse163.org/course/HIT-1002531008)  
+[清华大学](https://next.xuetangx.com/course/THU08091000267/)  
 
-## 数据库系统
+## 数据库系统 ｜ Database systems
 [卡内基梅隆大学 CMU 15-445](https://15445.courses.cs.cmu.edu/)  
 [卡内基梅隆大学 CMU 15-721](https://15721.courses.cs.cmu.edu/)  
 [卡内基梅隆大学 CMU 18-746](http://course.ece.cmu.edu/~ece746/)  
