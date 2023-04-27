@@ -4,10 +4,18 @@
 [斯坦福大学 CS 140(spring2021)](https://www.scs.stanford.edu/21wi-cs140/)  
 [斯坦福大学 CS 140e](https://cs140e.sergio.bz/)  
 [卡内基梅隆大学 CMU 15-213](https://www.cs.cmu.edu/~213/)  
+[卡内基梅隆大学 CMU 15-410](https://www.cs.cmu.edu/~410/)  
 [哈佛大学 CS 161](https://read.seas.harvard.edu/cs161)  
 [加州大学伯克利分校 CS 162](https://cs162.org/)  
 [哈工大](https://www.icourse163.org/course/HIT-1002531008)  
-[清华大学](https://next.xuetangx.com/course/THU08091000267/)  
+[清华大学 rCore OS](https://github.com/rcore-os/rCore-Tutorial-v3)  
+
+[How to create an OS from scratch](https://github.com/cfenollosa/os-tutorial)  
+[Writing an OS in Rust](https://github.com/phil-opp/blog_os)  
+[使用rust编写操作系统(汉译)](https://github.com/rustcc/writing-an-os-in-rust)  
+[学习用 Rust 编写嵌入式操作系统](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)  
+[开源操作系统训练营](https://github.com/LearningOS)  
+[Redox](https://github.com/redox-os/redox)  
 
 ## 数据库系统 ｜ Database systems
 [卡内基梅隆大学 CMU 15-445](https://15445.courses.cs.cmu.edu/)  
